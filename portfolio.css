@@ -259,6 +259,26 @@ span{
     transform: scale(1.1);
 } 
 
+.skill-icon4 {
+    width: 100px;  
+    height: 100px;
+    object-fit: contain;
+    transition: transform 0.3s;  
+}
+.skill-icon4:hover{
+    transform: scale(1.1);
+} 
+
+.skill-icon5 {
+    width: 100px;  
+    height: 100px;
+    object-fit: contain;
+    transition: transform 0.3s;  
+}
+.skill-icon5:hover{
+    transform: scale(1.1);
+} 
+
 
 .certificates {
     text-align: center;
